@@ -17,3 +17,7 @@ Learning OJS 3 is a guide for how to use Open Journal Systems (OJS), an open sou
 Authors: PKP Documentation Interest Group
 
 Translators: Grace Davis, Jean Rodmond Junior Laguerre, Victor Kaberuka Shyaka, Rita Tlemcani
+
+###Testing linting
+
+[Incorrect link format] (https://google.ca)
